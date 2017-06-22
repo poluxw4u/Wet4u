@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[COLOR red]Wet4u[/COLOR]</title>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://dl.dropbox.com/s/f90zwsfusbm7bsw/icon.png</thumbnail>
+<fanart>https://dl.dropbox.com/s/9xondlhp4zanx88/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][[COLOR red]Wet4u[/COLOR]] Vídeos cortos[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://dl.dropbox.com/s/4868ckcdh21uuja/Videos%20cortos_icon.jpg</thumbnail>
+<fanart>https://dl.dropbox.com/s/6ypc3ct8s7lxhkk/Videos%20cortos_fanart.jpg</fanart>
+<externallink>https://dl.dropbox.com/s/h4knwsoe95zxp8z/videos%20cortos.xml</externallink>	
+</item>
+
+<item>
+<title>[COLOR white][[COLOR red]Wet4u[/COLOR]] Vídeos largos[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://dl.dropbox.com/s/v6xz4vbnwy8pl5z/Videos%20largos_icon.jpg</thumbnail>
+<fanart>https://dl.dropbox.com/s/03vniku043gx9ur/Videos%20largos_fanart.jpg</fanart>
+<externallink>https://dl.dropbox.com/s/5fdsj175kogaipp/videos%20largos.xml</externallink>	
+</item>
+
+<item>
+<title>[COLOR white][[COLOR red]Wet4u[/COLOR]] Películas[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://dl.dropbox.com/s/snnczpisyfn0uku/Peliculas_icon.jpg</thumbnail>
+<fanart>https://dl.dropbox.com/s/ahl7wzj3ch3aj69/Peliculas_fanart.jpg</fanart>
+<externallink>https://dl.dropbox.com/s/6ffxztpmuzriua6/Peliculas.xml</externallink>	
+</item>
+
