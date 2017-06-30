@@ -31,7 +31,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/polux/sexo-suaveo-73727/list,1,10</referer>
+<referer>http://diskokosmiko.mx/polux/sexo-suave-73727/list,1,10</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
