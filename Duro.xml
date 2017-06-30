@@ -7,7 +7,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR lime] [makelist.param3][/COLOR]</title>
+        <title>[COLOR white][[COLOR red]Wet4u[/COLOR]][makelist.param3][/COLOR]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>http://www.subtitles.to/v/4/4f0d9587774e124c585b0c6f4f3e2996.jpg</thumbnail>
   <fanart>https://raw.githubusercontent.com/poluxw4u/Wet4u/master/Fotos/Videos_largos_fanart.jpg</fanart>
