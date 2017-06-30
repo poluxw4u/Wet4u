@@ -1,16 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>[COLOR red]Wet4u[/COLOR]</title>
-<link>$doregex[openDialog]</link>
-<regex>
-<name>openDialog</name>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/poluxw4u/Wet4u/master/Fotos/icon.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/poluxw4u/Wet4u/master/Fotos/fanart.jpg</fanart>
-</item>
 
 <item>
 <title>[COLOR white][[COLOR red]Wet4u[/COLOR]] Suave[/COLOR]</title>
