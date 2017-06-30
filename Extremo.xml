@@ -2,7 +2,7 @@
  
  
 <item>
-<title>[COLOR white][[COLOR red]Wet4u[/COLOR]] Duro[/COLOR]</title>
+<title>[COLOR white][[COLOR red]Wet4u[/COLOR]] Extremo[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -13,7 +13,7 @@
   <fanart>https://raw.githubusercontent.com/poluxw4u/Wet4u/master/Fotos/Videos_largos_fanart.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/polux/sexo-duro-74305/list,1,10</page>
+<page>http://diskokosmiko.mx/polux/sexo-extremo-74305/list,1,10</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -31,7 +31,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/polux/sexo-duro-74305/list,1,10</referer>
+<referer>http://diskokosmiko.mx/polux/sexo-extremo-74305/list,1,10</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
