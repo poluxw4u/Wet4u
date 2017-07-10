@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
- <parentalblock>true</parentalblock>
+ 
 <item>
+<parentalblock>true</parentalblock>
 <title>[COLOR white][[COLOR red]Wet4u[/COLOR]] Extremo[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
